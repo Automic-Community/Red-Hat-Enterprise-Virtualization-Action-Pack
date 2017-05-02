@@ -19,6 +19,8 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png" alt="" width="401" height="166" /></p>
+<p><span class="_Tgc">Red Hat Virtualization (RHEV) is an enterprise virtualization product produced by Red Hat, based on the KVM hypervisor. Red Hat Virtualization uses the SPICE protocol and VDSM (Virtual Desktop Server Manager) with a RHEL-based centralized management server.</span></p>
 <ul>
 <li>Change CPU of VM</li>
 <li>Change Memory of VM</li>
